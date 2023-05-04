@@ -1,133 +1,56 @@
 [
-    {
-      "id": 1,
-      "name": "Gennaro Contaldo",
-      "image": "https://i.ibb.co/bB7hVfM/pexels-photo-4252137.jpg",
-      "banner" : "",
-      "bio": "Gennaro Contaldo is a world-renowned chef and television personality known for his fiery personality and culinary expertise. He has multiple Michelin stars and runs a successful chain of restaurants worldwide.",
-      "experience": 50,
-      "recipes": 100,
-      "like": 7,
-      "ingredients": [
-        "8 oz spaghetti",
-        "4 oz pancetta or bacon",
-        "2 cloves garlic, minced",
-        "2 large eggs",
-        "1/2 cup grated Parmesan cheese"
-      ],
-      "cookingMethod": [
-        "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente.",
-        "Add garlic to the skillet and cook until fragrant, about 1 minute. Remove from heat.",
-        "In a small bowl, whisk together eggs and Parmesan cheese.",
-        "When spaghetti is done, reserve 1/2 cup of the cooking water and drain the rest. Return spaghetti to the pot.",
-        "Add pancetta or bacon and garlic to the pot and toss to combine."
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Massimo Bottura",
-      "image": "https://i.ibb.co/B33bZdt/pexels-photo-2102934.jpg",
-      "banner" : "",
-      "bio": "Massimo Bottura was an American chef, author, and television personality who introduced French cuisine to a wide audience in the United States through her cookbooks and television series.",
-      "experience": 30,
-      "recipes": 75,
-      "like": 5,
-      "ingredients": [
-        "1 lb pizza dough",
-        "1/2 cup tomato sauce",
-        "8 oz fresh mozzarella, sliced",
-        "8-10 fresh basil leaves",
-        "2 tbsp olive oil"
-      ],
-      "cookingMethod": [
-        "Preheat oven to 450°F.",
-        "On a floured surface, roll out the pizza dough to desired thickness.",
-        "Transfer the dough to a lightly oiled baking sheet or pizza stone.",
-        "Spread tomato sauce over the dough, leaving a small border around the edges.",
-        "Arrange the sliced mozzarella on top of the sauce."
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Antonio Carluccio",
-      "image": "https://i.ibb.co/TPkv88w/pexels-photo-4253302.jpg",
-      "banner" : "",
-      "bio": "Antonio Carluccio is an Italian chef and restaurateur who owns and operates Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine.",
-      "experience": 40,
-      "recipes": 90,
-      "like": 6,
-      "ingredients": [
-        "6 egg yolks",
-        "3/4 cup sugar",
-        "2/3 cup milk",
-        "1 1/4 cups heavy cream",
-        "1/2 tsp vanilla extract"
-      ],
-      "cookingMethod": [
-        "Preheat oven to 450°F.",
-        "On a floured surface, roll out the pizza dough to desired thickness.",
-        "Transfer the dough to a lightly oiled baking sheet or pizza stone.",
-        "Spread tomato sauce over the dough, leaving a small border around the edges.",
-        "Arrange the sliced mozzarella on top of the sauce."
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Giada De Laurentiis",
-      "image": "https://i.ibb.co/41VYx2S/pexels-photo-3338675.jpg",
-      "banner" : "",
-      "bio": "Giada De Laurentiis is a British chef and restaurateur known for his innovative and experimental approach to cooking. He owns and operates The Fat Duck in Bray, Berkshire, which has three Michelin stars.",
-      "experience": 20,
-      "recipes": 50,
-      "like": 8,
-      "ingredients": [
-        "6 egg yolks",
-        "3/4 cup sugar",
-        "2/3 cup milk",
-        "1 1/4 cups heavy cream",
-        "1/2 tsp vanilla extract"
-      ],
-      "cookingMethod": [
-        "Preheat oven to 450°F.",
-        "On a floured surface, roll out the pizza dough to desired thickness.",
-        "Transfer the dough to a lightly oiled baking sheet or pizza stone.",
-        "Spread tomato sauce over the dough, leaving a small border around the edges.",
-        "Arrange the sliced mozzarella on top of the sauce."
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Mario Batali",
-      "image": "https://i.ibb.co/0GMHkR0/pexels-photo-3351927.jpg",
-      "banner" : "",
-      "bio": "Mario Batali is an American chef and restaurateur who is the only American chef to have been awarded three Michelin stars for two different restaurants. He owns and operates The French Laundry in California and Per Se in New York.",
-      "experience": 25,
-      "recipes": 60,
-      "like": 10
-    },
-    {
-      "id": 6,
-      "name": "Lidia Bastianich",
-      "image": "https://i.ibb.co/T8m2hcF/pexels-photo-3298687.jpg",
-      "banner" : "",
-      "bio": "Lidia Bastianich is an American chef, author, and activist who is credited with starting the farm-to-table movement. She founded Chez Panisse in Berkeley, California, which has been a pioneer of California cuisine.",
-      "experience": 35,
-      "recipes": 80,
-      "like": 8,
-      "ingredients": [
-        "6 egg yolks",
-        "3/4 cup sugar",
-        "2/3 cup milk",
-        "1 1/4 cups heavy cream",
-        "1/2 tsp vanilla extract"
-      ],
-      "cookingMethod": [
-        "Preheat oven to 450°F.",
-        "On a floured surface, roll out the pizza dough to desired thickness.",
-        "Transfer the dough to a lightly oiled baking sheet or pizza stone.",
-        "Spread tomato sauce over the dough, leaving a small border around the edges.",
-        "Arrange the sliced mozzarella on top of the sauce."
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Gennaro Contaldo",
+    "image": "https://i.ibb.co/bB7hVfM/pexels-photo-4252137.jpg",
+    "bio": "Gennaro Contaldo is a world-renowned chef and television personality known for his fiery personality and culinary expertise. He has multiple Michelin stars and runs a successful chain of restaurants worldwide.",
+    "experience": 50,
+    "recipes": 100,
+    "like": 7
+  },
+  {
+    "id": 2,
+    "name": "Massimo Bottura",
+    "image": "https://i.ibb.co/B33bZdt/pexels-photo-2102934.jpg",
+    "bio": "Massimo Bottura was an American chef, author, and television personality who introduced French cuisine to a wide audience in the United States through her cookbooks and television series.",
+    "experience": 30,
+    "recipes": 75,
+    "like": 5
+  },
+  {
+    "id": 3,
+    "name": "Antonio Carluccio",
+    "image": "https://i.ibb.co/TPkv88w/pexels-photo-4253302.jpg",
+    "bio": "Antonio Carluccio is an Italian chef and restaurateur who owns and operates Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine.",
+    "experience": 40,
+    "recipes": 90,
+    "like": 6
+  },
+  {
+    "id": 4,
+    "name": "Giada De Laurentiis",
+    "image": "https://i.ibb.co/41VYx2S/pexels-photo-3338675.jpg",
+    "bio": "Giada De Laurentiis is a British chef and restaurateur known for his innovative and experimental approach to cooking. He owns and operates The Fat Duck in Bray, Berkshire, which has three Michelin stars.",
+    "experience": 20,
+    "recipes": 50,
+    "like": 8
+  },
+  {
+    "id": 5,
+    "name": "Mario Batali",
+    "image": "https://i.ibb.co/0GMHkR0/pexels-photo-3351927.jpg",
+    "bio": "Mario Batali is an American chef and restaurateur who is the only American chef to have been awarded three Michelin stars for two different restaurants. He owns and operates The French Laundry in California and Per Se in New York.",
+    "experience": 25,
+    "recipes": 60,
+    "like": 10
+  },
+  {
+    "id": 6,
+    "name": "Lidia Bastianich",
+    "image": "https://i.ibb.co/T8m2hcF/pexels-photo-3298687.jpg",
+    "bio": "Lidia Bastianich is an American chef, author, and activist who is credited with starting the farm-to-table movement. She founded Chez Panisse in Berkeley, California, which has been a pioneer of California cuisine.",
+    "experience": 35,
+    "recipes": 80,
+    "like": 8
+  }
+]
