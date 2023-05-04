@@ -1,56 +1,284 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Gennaro Contaldo",
-    "image": "https://i.ibb.co/bB7hVfM/pexels-photo-4252137.jpg",
-    "bio": "Gennaro Contaldo is a world-renowned chef and television personality known for his fiery personality and culinary expertise. He has multiple Michelin stars and runs a successful chain of restaurants worldwide.",
     "experience": 50,
+    "likes": 125,
     "recipes": 100,
-    "like": 7
+    "bio": "Gennaro Contaldo is a world-renowned chef and television personality known for his fiery personality and culinary expertise. He has multiple Michelin stars and runs a successful chain of restaurants worldwide.",
+    "image": "https://i.ibb.co/bB7hVfM/pexels-photo-4252137.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Massimo Bottura",
-    "image": "https://i.ibb.co/B33bZdt/pexels-photo-2102934.jpg",
+    "experience": 30,
+    "likes": 125,
+    "recipes": 75,
     "bio": "Massimo Bottura was an American chef, author, and television personality who introduced French cuisine to a wide audience in the United States through her cookbooks and television series.",
+    "image": "https://i.ibb.co/B33bZdt/pexels-photo-2102934.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Antonio Carluccio",
     "experience": 30,
     "recipes": 75,
-    "like": 5
-  },
-  {
-    "id": 3,
-    "name": "Antonio Carluccio",
-    "image": "https://i.ibb.co/TPkv88w/pexels-photo-4253302.jpg",
+    "likes": 105,
     "bio": "Antonio Carluccio is an Italian chef and restaurateur who owns and operates Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative approach to Italian cuisine.",
-    "experience": 40,
-    "recipes": 90,
-    "like": 6
+    "image": "https://i.ibb.co/TPkv88w/pexels-photo-4253302.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Giada De Laurentiis",
-    "image": "https://i.ibb.co/41VYx2S/pexels-photo-3338675.jpg",
-    "bio": "Giada De Laurentiis is a British chef and restaurateur known for his innovative and experimental approach to cooking. He owns and operates The Fat Duck in Bray, Berkshire, which has three Michelin stars.",
-    "experience": 20,
     "recipes": 50,
-    "like": 8
+    "experience": 20,
+    "likes": 115,
+    "bio": "Giada De Laurentiis is a British chef and restaurateur known for his innovative and experimental approach to cooking. He owns and operates The Fat Duck in Bray, Berkshire, which has three Michelin stars.",
+    "image": "https://i.ibb.co/41VYx2S/pexels-photo-3338675.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Mario Batali",
-    "image": "https://i.ibb.co/0GMHkR0/pexels-photo-3351927.jpg",
-    "bio": "Mario Batali is an American chef and restaurateur who is the only American chef to have been awarded three Michelin stars for two different restaurants. He owns and operates The French Laundry in California and Per Se in New York.",
     "experience": 25,
     "recipes": 60,
-    "like": 10
+    "like": 110,
+    "bio": "Mario Batali is an American chef and restaurateur who is the only American chef to have been awarded three Michelin stars for two different restaurants. He owns and operates The French Laundry in California and Per Se in New York.",
+    "image": "https://i.ibb.co/0GMHkR0/pexels-photo-3351927.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Lidia Bastianich",
-    "image": "https://i.ibb.co/T8m2hcF/pexels-photo-3298687.jpg",
-    "bio": "Lidia Bastianich is an American chef, author, and activist who is credited with starting the farm-to-table movement. She founded Chez Panisse in Berkeley, California, which has been a pioneer of California cuisine.",
     "experience": 35,
     "recipes": 80,
-    "like": 8
+    "likes": 120,
+    "bio": "Lidia Bastianich is an American chef, author, and activist who is credited with starting the farm-to-table movement. She founded Chez Panisse in Berkeley, California, which has been a pioneer of California cuisine.",
+    "image": "https://i.ibb.co/T8m2hcF/pexels-photo-3298687.jpg",
+    "recipe": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a pot of salted boiling water. 2. In a skillet, cook pancetta until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the skillet with pancetta. 5. Remove the skillet from the heat and add the egg mixture, tossing quickly to coat the spaghetti. 6. Serve immediately.",
+        "rating": 4.5
+      },
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "fresh basil",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and spread tomato sauce over it. 3. Sprinkle mozzarella cheese over the sauce. 4. Top with fresh basil leaves. 5. Drizzle with olive oil. 6. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "espresso",
+          "ladyfingers"
+        ],
+        "cooking_method": "1. In a bowl, beat egg yolks with sugar until pale and creamy. 2. Add mascarpone cheese and mix until smooth. 3. In a separate bowl, beat egg whites until stiff peaks form. 4. Fold egg whites into the mascarpone mixture. 5. Dip ladyfingers in espresso and layer them in a dish. 6. Spoon the mascarpone mixture over the ladyfingers. 7. Chill for at least 2 hours before serving.",
+        "rating": 4.9
+      }
+    ]
   }
 ]
